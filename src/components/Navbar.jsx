@@ -3,7 +3,7 @@ import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap';
 
 const MyNavbar = () => {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg" fixed="top" style={{ border: "4px solid purple" }}>
+    <Navbar bg="dark" variant="dark" expand="lg" fixed="top" style={{ border: "5px solid purple" }}>
       <Container>
         <Navbar.Brand href="#">Lemon Terminal</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
